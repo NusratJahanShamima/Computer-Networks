@@ -13,7 +13,9 @@ This project presentation explains the **LDAP Protocol (Lightweight Directory Ac
 ---
 
 ## 🎬 Watch the Presentation Video
-👉 [Click here to watch the video on Google Drive]([https://drive.google.com/file/d/1AbCdEfGhIjKlMnOpQrStUvWxYz/view?usp=sharing](https://drive.google.com/file/d/1WgicS72eeMWtkvvme2WdSUZZd6ipgIHf/view?usp=drive_link))
+[Click here to watch the video](https://drive.google.com/file/d/1WgicS72eeMWtkvvme2WdSUZZd6ipgIHf/view?usp=drive_link)
+
+
 
 ---
 
